@@ -1,0 +1,12 @@
+{
+  "name": "test-template-project",
+  "version": "1.0.0",
+  "description": "A test template project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["test", "template"],
+  "author": "Test Author",
+  "license": "MIT"
+}
